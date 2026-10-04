@@ -256,7 +256,3 @@ Original file is located at
 #     3. Type your search term and press **Enter**.
 #     """)
 
-!wget -q -O cloudflared https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
-!chmod +x cloudflared
-
-!streamlit run app.py & ./cloudflared tunnel --url http://localhost:8501
