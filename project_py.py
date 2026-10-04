@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1hCt-zdBQSmGf_MmoO6D5d2FpyEQq_KXU
 """
 
-!pip install -q streamlit rdkit py3Dmol pubchempy
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
