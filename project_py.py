@@ -256,8 +256,6 @@ Original file is located at
 #     3. Type your search term and press **Enter**.
 #     """)
 
-curl ipv4.icanhazip.com
-
 !wget -q -O cloudflared https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
 !chmod +x cloudflared
 
